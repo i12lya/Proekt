@@ -32,35 +32,19 @@ nav#topMenu a {
     color: #fff;
 }
 
-#Info h1{
+#Zaglavie{
     text-align:center;
 }
 
-#Info p {
-   float:right;
-   margin-right:50px;
-   text-justify:auto;
-   width:600px;
-   font-size:20px;
-
-}
-
-#Info img {
+.Modeli p{
+    width:50%;
     float:left;
-    margin-left:40px;
-    width:40%;
-    height:40%;
+    font-size:17px;
 }
 
-#IstoriqKola {
-    text-justify: auto;
-    margin-right: 50px;
-    width: 800px;
-    font-size: 20px;
-}
-
-#IstoriqSnimka {
-    float:right;
-    width:30%;
-    margin-right:80px;  
+.Modeli img {
+    width: 35%;
+    float: right;
+    margin-right:50px;
+    font-size: 17px;
 }
